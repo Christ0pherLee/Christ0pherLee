@@ -45,7 +45,8 @@
 
 ### 🌍 Let's Connect
 
-📫 **Email:** lee.christopher@protonmail.com 
+📫 **Email:** lee.christopher@protonmail.com  
+📸 **Instagram:** [@los.angeles.vibez](https://www.instagram.com/los.angeles.vibez/)
 
 ---
 
