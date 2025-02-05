@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=200&section=header&text=Christopher%20Lee&fontSize=40&fontColor=white)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=200&section=header&text=Christopher%20Lee&fontSize=40&fontColor=white)
 
 ## 👋 Hey there fellow coders!
 
