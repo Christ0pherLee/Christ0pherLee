@@ -46,7 +46,6 @@
 ### 🌍 Let's Connect
 
 📫 **Email:** lee.christopher@protonmail.com 
-🌐 **Portfolio:** [christ0pherlee.github.io](https://christ0pherlee.github.io)  
 
 ---
 
