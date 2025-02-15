@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=christ0pherlee&show_icons=true&theme=github_dark&hide=issues,contribs" width="400px">
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=christ0pherlee&theme=github_dark" width="400px">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=christ0pherlee&theme=github-dark&hide_border=true" width="400px">
 </td>
 </tr>
 </table>
