@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003973,100:00b4db&height=200&section=header&text=Christopher%20Lee&fontSize=40&fontColor=ffffff)
 
-## 👋 Hey there fellow coders!
+## 💻 Code. 💡 Innovate. 🔁 Repeat.
 
 🚀 **Software DevOps Engineer | Cloud | CI/CD | Test Automation**  
 🔹 Passionate about building scalable cloud solutions with **AWS, Terraform, GitLab CI/CD**  
