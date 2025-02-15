@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=christ0pherlee&show_icons=true&theme=github_dark&hide=issues,contribs" width="400px">
 </td>
 <td>
-<img src="https://streak-stats.demolab.com/?user=christ0pherlee&theme=github-dark-blue" width="400px">
+<img src="https://github-readme-streak-stats.vercel.app/?user=christ0pherlee&theme=github-dark-blue" width="400px">
 </td>
 </tr>
 </table>
